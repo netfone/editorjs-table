@@ -18,7 +18,7 @@ Include module at your application
 import Table from '@editorjs/table'
 ```
 
-Optionally, you can load this tool from CDN [JsDelivr CDN](https://cdn.jsdelivr.net/npm/@editorjs/table@latest)
+Optionally, you can load this tool from CDN [JsDelivr CDN](https://cdn.jsdelivr.net/npm/@netfone/editorjs-table@latest)
 
 
 
@@ -27,7 +27,7 @@ Optionally, you can load this tool from CDN [JsDelivr CDN](https://cdn.jsdelivr.
 Add a new Tool to the `tools` property of the Editor.js initial config.
 
 ```javascript
-import Table from '@editorjs/table';
+import Table from '@netfone/editorjs-table';
 
 var editor = EditorJS({
   tools: {
