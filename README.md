@@ -1,6 +1,6 @@
 # Table tool
 
-The Table Block for the [Editor.js](https://editorjs.io). Finally improved.
+Customized the Table Block for the [Editor.js](https://editorjs.io). Forked version from EditorJS Table.
 
 ![](assets/68747470733a2f2f636170656c6c612e706963732f34313239346365632d613262332d343135372d383339392d6666656665643364386666642e6a7067.jpeg)
 
@@ -9,13 +9,13 @@ The Table Block for the [Editor.js](https://editorjs.io). Finally improved.
 Get the package
 
 ```shell
-yarn add @editorjs/table
+yarn add @netfone/editorjs-table
 ```
 
 Include module at your application
 
 ```javascript
-import Table from '@editorjs/table'
+import Table from '@netfone/editorjs-table'
 ```
 
 Optionally, you can load this tool from CDN [JsDelivr CDN](https://cdn.jsdelivr.net/npm/@netfone/editorjs-table@latest)
